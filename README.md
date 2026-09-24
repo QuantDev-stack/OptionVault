@@ -173,3 +173,5 @@ If you have questions about custom historical extracts, data quality, update fre
 ## Disclaimer
 
 Sample datasets are provided for evaluation purposes only. Commercial datasets require licensing.
+
+Telegram: For dataset inquiries, pricing, samples, and custom data requests, contact me directly on Telegram: @https://t.me/LocalHost129
